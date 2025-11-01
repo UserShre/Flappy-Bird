@@ -15,7 +15,7 @@
   const STORAGE_KEY = 'flappy_bird_scores_v1';
 
   // Sprite configuration (default guesses). If your sheet differs, update these.
-  const SPRITE_PATH = 'flappy bird sprites.png';
+  const SPRITE_PATH = 'assets/sprites.png';
   const SPRITES = {
     // bird frames (x,y,w,h) in sheet
     birdFrames: [{x:156,y:115,w:34,h:24},{x:156,y:139,w:34,h:24},{x:156,y:163,w:34,h:24}],
